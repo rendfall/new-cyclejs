@@ -1,1 +1,3 @@
-"# new-cyclejs" 
+# new-cyclejs
+
+Simple seed for cyclejs application.
